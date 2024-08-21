@@ -75,8 +75,11 @@ After install, you must do DB Initialization on any instance, and after it works
 
 
 
+# After you finish writing the project, write 
 
-
+terraform init 
+terraform plan
+terraform apply
 
 # What problems am I fighting and what is the solution to them 
 
