@@ -15,6 +15,9 @@ Elastic Load Balancer (ELB(
 
 ok Now let's start the project, we must prepare the iam user and create an account to fetch the secret key and public key information and put them in provider.tf 
 
+
+create file " main.tf"
+
 # Step 1: Create a VPC
 
 ![image](https://github.com/user-attachments/assets/d8b3f5bc-a448-477e-840b-da14a460df10)
